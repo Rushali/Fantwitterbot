@@ -1,2 +1,2 @@
 # TwitterBot1
-A fangirl twitterbot that is obsessed with indian stand up comedian kanan gill and posts random phrases about him.
+A twitterbot pretending to be Kanan Gill's Fan girl -- eventually was supposed to learn and generate phrases based on transcriptions of the comedians shows and videos
